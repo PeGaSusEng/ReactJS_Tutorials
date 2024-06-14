@@ -1,0 +1,37 @@
+body {
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;  
+}
+.Bagian-Utama {
+  font-size: 11px;
+  border-style: solid;
+  border-color: rgb(225, 215, 215);
+  border-radius: 3%;
+  border-width: 1.2;
+  padding: 20px;
+  margin: 10px;
+  max-width: 160px;
+  box-shadow: 5px 5px 5px rgb(221, 217, 217);
+  transition: 3s;
+ 
+}
+
+.Bagian-Foto img {
+  max-width: 40%;
+  height: auto;
+  border-radius: 60%;
+  margin-bottom: 10px;
+}
+
+.Tulisan_h1 {
+  color: blue;
+}
+
+.Tulisan_h1:hover {
+  color: rgb(255, 115, 0);
+}
+
+
